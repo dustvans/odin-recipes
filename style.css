@@ -1,6 +1,26 @@
+html {
+    background-color: rgb(152, 173, 173);
+}
+
 .title {
-    font-size: 24px;
+    font-size: 32px;
     color: rgb(235, 63, 63);
     background-color: rgb(0, 255, 0);
     font-family: 'Times New Roman', Times, serif;
 }
+
+h2, h3 {
+    font-size: 28px;
+    font-weight: 700;
+    color: red;
+}
+
+p {
+    font-size: medium;
+    color: rgb(6, 104, 6);
+}
+
+ul, ol {
+    background-color: aqua;
+}
+
